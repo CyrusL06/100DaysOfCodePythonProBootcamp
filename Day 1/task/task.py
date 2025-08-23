@@ -1,2 +1,3 @@
-input("What is your name?")
-
+name = "Angela"
+length = len(name)
+print(length)
